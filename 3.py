@@ -1,2 +1,2 @@
 import os
-print 'log test'
+print 'log test (test combined comit)'
